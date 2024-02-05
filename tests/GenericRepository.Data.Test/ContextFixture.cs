@@ -12,7 +12,7 @@ namespace GenericRepository.Data.Test
         {
             using var localDB = new SqlLocalDbApi();
 
-            instance = localDB.GetOrCreateInstance("Test");
+            instance = localDB.GetOrCreateInstance($"Test${Guid.NewGuid}");
             ISqlLocalDbInstanceManager manager = instance.Manage();
 
             if (!instance.IsRunning)
