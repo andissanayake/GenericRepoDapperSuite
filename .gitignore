@@ -3,9 +3,9 @@
 ################################################################################
 
 /.vs
-/GenericRepository/bin/Debug/net8.0
-/GenericRepository/obj
-/GenericRepository.Data/bin/Debug/net8.0
-/GenericRepository.Data/obj
-/GenericRepository.Data.Test/bin/Debug/net8.0
-/GenericRepository.Data.Test/obj
+/src/GenericRepository/bin
+/src/GenericRepository/obj
+/src/GenericRepository.Data/bin
+/src/GenericRepository.Data/obj
+/tests/GenericRepository.Data.Test/bin
+/tests/GenericRepository.Data.Test/obj
