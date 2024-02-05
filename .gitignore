@@ -7,4 +7,5 @@
 /src/GenericRepository/obj
 /src/GenericRepository.Data/bin
 /src/GenericRepository.Data/obj
-/tests/GenericRepository.Data.Test/bin/Debug/net8.0
+/tests/GenericRepository.Data.Test/bin
+/tests/GenericRepository.Data.Test/obj
